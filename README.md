@@ -51,7 +51,7 @@ No backend is connected — this is a frontend UI demo.
 
 📱 Signup Page
 ![image alt](https://github.com/Tamilselvan-BE/Login_Signup/blob/f8900e1eaacc51802b34aff9c080ca8593a69c33/Screenshot%20(44).png)
+Responsive
 ![image alt](https://github.com/Tamilselvan-BE/Login_Signup/blob/63e001b23b888c26177b6165d599edf272938e9d/Screenshot%20(45).png)
 ![image alt](https://github.com/Tamilselvan-BE/Login_Signup/blob/176965306848055511ba65a41c49c7502fc8c1ac/Screenshot%20(46).png)
 
-(You can replace the placeholders with actual screenshots of your UI)
